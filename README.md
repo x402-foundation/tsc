@@ -50,4 +50,4 @@ Generally, topics for a TSC meeting include:
 | Domain Discovery | [Slack](https://x402workspace.slack.com/archives/C0B9Z8C27EE), [Mailing List](https://lists.x402.org/g/Domain-Discovery)|
 | Identity | [Slack](https://x402workspace.slack.com/archives/C0BA2SQK9GU), [Mailing List](https://lists.x402.org/g/Identity-Working-Group) |
 | Tax | [Slack](https://x402workspace.slack.com/archives/C0B9Z89FP18), [Mailing List](https://lists.x402.org/g/tax-working-group) |
-| Card Acceptance | |
+| Card Acceptance | [Mailing List](https://lists.x402.org/g/Card-Acceptance-Working-Group) |
