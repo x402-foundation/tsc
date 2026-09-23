@@ -39,15 +39,55 @@ Generally, topics for a TSC meeting include:
 - Recordings of our meetings are found in LFX
 
 ## Communication Channels
+- [Join x402 Project Slack](https://join.slack.com/t/x402workspace/shared_invite/zt-42zays8tf-gGah0QAWCfuMztIERAfYdg)
+- Public Slack: [#tsc-public](https://x402workspace.slack.com/archives/C0B95HQMC2V)
+- Mailing List: TSC@lists.x402.org, Subscribe at https://lists.x402.org/g/TSC
+- Private Mailing List: TSC-private@lists.x402.org
+
+## Communication Channels
+- [Join x402 Project Slack](https://join.slack.com/t/x402workspace/shared_invite/zt-42zays8tf-gGah0QAWCfuMztIERAfYdg)
 - Public Slack: [#tsc-public](https://x402workspace.slack.com/archives/C0B95HQMC2V)
 - Mailing List: TSC@lists.x402.org, Subscribe at https://lists.x402.org/g/TSC
 - Private Mailing List: TSC-private@lists.x402.org
 
 ## Working Groups (WGs)
 
-| Name | Comm Channels | 
-| --- | --- |
-| Domain Discovery | [Slack](https://x402workspace.slack.com/archives/C0B9Z8C27EE), [Mailing List](https://lists.x402.org/g/Domain-Discovery)|
-| Identity | [Slack](https://x402workspace.slack.com/archives/C0BA2SQK9GU), [Mailing List](https://lists.x402.org/g/Identity-Working-Group) |
-| Tax | [Slack](https://x402workspace.slack.com/archives/C0B9Z89FP18), [Mailing List](https://lists.x402.org/g/tax-working-group) |
-| Card Acceptance | [Mailing List](https://lists.x402.org/g/Card-Acceptance-Working-Group) |
+### Domain Discovery
+**Comm Channels:** [Slack](https://x402workspace.slack.com/archives/C0B9Z8C27EE) · [Mailing List](https://lists.x402.org/g/Domain-Discovery)
+
+**Meets:** Mondays, 10:00 – 11:00 AM CT (biweekly)
+
+| Position | Name | Email | Organization | Term |
+| --- | --- | --- | --- | --- |
+| Chair | Akash Balasubramani | akash@starkware.co | Starkware | September 2026 - December 2027 |
+| Co-Chair | Mancy Thurston | unblinkr@gmail.com | Paddock Finance | September 2026 - December 2027 |
+
+### Identity
+**Comm Channels:** [Slack](https://x402workspace.slack.com/archives/C0BA2SQK9GU) · [Mailing List](https://lists.x402.org/g/Identity-Working-Group)
+
+**Meets:** Tuesdays, 10:00 – 11:00 AM CT (biweekly)
+
+| Position | Name | Email | Organization | Term |
+| --- | --- | --- | --- | --- |
+| Chair | Nicole Dunn | nicole@baselayer.com | Baselayer | September 2026 - December 2027 |
+| Co-Chair | Amanda McDermott | amanda.p.mcdermott@gmail.com | Coinbase | September 2026 - December 2027 |
+
+### Tax
+**Comm Channels:** [Slack](https://x402workspace.slack.com/archives/C0B9Z89FP18) · [Mailing List](https://lists.x402.org/g/tax-working-group)
+
+**Meets:** Thursdays, 10:00 – 11:00 AM CT (biweekly)
+
+| Position | Name | Email | Organization | Term |
+| --- | --- | --- | --- | --- |
+| Chair | Tim Fisher | tim@axorum.com | Axorum | September 2026 - December 2027 |
+| Co-Chair | Joseph Hughes Jr. | joe@0xEB.com | 0xEB | September 2026 - December 2027 |
+
+### Card Acceptance
+**Comm Channels:** [Slack](https://x402workspace.slack.com/archives/C0BH70XKYHL) · [Mailing List](https://lists.x402.org/g/Card-Acceptance-Working-Group)
+
+**Meets:** Tuesdays, 10:00 – 11:00 AM CT (biweekly, alternating with Identity)
+
+| Position | Name | Email | Organization | Term |
+| --- | --- | --- | --- | --- |
+| Chair | Stefano Amorelli | stefano@amorelli.tech | Independent | September 2026 - December 2027 |
+| Co-Chair | Carson Roscoe | carson.roscoe@coinbase.com | Coinbase | September 2026 - December 2027 |
